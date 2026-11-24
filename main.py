@@ -2,6 +2,9 @@
 
 Prints the entry line and writes it to /output/entry.txt, where the
 program/v1 harness gates it (UTF-8, 1-200 characters) and the judge reads it.
+
+The joke: Mercury retrograde meets a context-window rate limit — the agent
+gets blamed for the user's own 90,000-token paste.
 """
 
 import os
